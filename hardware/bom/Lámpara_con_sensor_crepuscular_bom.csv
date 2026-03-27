@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_DO-35_SOD27_P7.62mm_Horizontal,1,1N4148,
+J1,TerminalBlock_MaiXu_MX126-5.0-03P_1x03_P5.00mm,1,NA COM NC,
+J2,Altech_AK100_1x02_P5.00mm,1,+12V GND,
+K1,Relay_SPDT_Omron-G5LE-1,1,G5LE-1,
+Q1,TO-92_Inline,1,BC547,
+R1,R_LDR_5.1x4.3mm_P3.4mm_Vertical,1,LDR07,
+R2,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,4700,
+RV1,TRIM_3362P-1-503RLF,1,100K,

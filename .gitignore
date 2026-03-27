@@ -3,4 +3,5 @@
 fp-info-cache
 *.lck
 *.kicad_pro
+fabrication-toolkit-options.json
 *backups/
