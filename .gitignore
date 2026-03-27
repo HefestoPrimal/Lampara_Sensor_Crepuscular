@@ -1,0 +1,6 @@
+.qodo
+*.kicad_prl
+fp-info-cache
+*.lck
+*.kicad_pro
+*backups/
