@@ -2,9 +2,11 @@
 
 A través de una fotocelda que detecta los niveles de luz se controla un relevador con una carga para encender o apagar una lámpara según el nivel detectado con un control de sensibilidad para personalizar el punto en el que la lampara se encienda.
 
-![PCB Terminada](docs/images/Lámpara con Sensor Crepuscular Cap PCB.jpeg)
+<p align="center">
+    <img src="docs/images/Lámpara con Sensor Crepuscular Cap PCB.jpeg" alt="PCB Terminada" width="50%">
+</p>
 
-![Visualización en 3D de la placa](docs/images/Lámpara con sensor crepuscular 3D 1.jpg)
+<img src="docs/images/Lámpara con sensor crepuscular 3D 1.jpg" alt="Visualización en 3D de la placa" style="width=50%;">
 
 ## Características
 
