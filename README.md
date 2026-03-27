@@ -9,7 +9,7 @@ A través de una fotocelda que detecta los niveles de luz se controla un relevad
 
 **Vista en 3D de la placa**
 <p align="center">
-    <img src="docs/images/Lámpara con sensor crepuscular 3D 1.jpg" alt="Visualización en 3D de la placa" style="width=50%;">
+    <img src="docs/images/Lámpara con sensor crepuscular 3D 1.jpg" alt="Visualización en 3D de la placa" width="50%">
 </p>
 
 ## Características
