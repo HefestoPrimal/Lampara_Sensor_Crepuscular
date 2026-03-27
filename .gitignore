@@ -5,3 +5,4 @@ fp-info-cache
 *.kicad_pro
 fabrication-toolkit-options.json
 *backups/
+.vscode
